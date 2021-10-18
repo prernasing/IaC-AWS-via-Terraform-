@@ -9,11 +9,11 @@ variable "availability_zone" {
 
 }
 variable "access_key" {
-    default = "AKIAQ2QWUYAFVIKYNCHM"
+    default = "***************************************"
 }
 
 variable "secret_key" {
-    default = "SDErq3Qh4E2PsOC1stWdHz+eSUqG/7dXMVdFvmvW"
+    default = "*****************************************"
 }
 
 variable "ami" {
